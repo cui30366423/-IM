@@ -78,8 +78,6 @@
     [super viewWillAppear:animated];
     
     
-    
-    
     _isClick = YES;
     [self setNavigationItemTitleView];
     //自定义rightBarButtonItem

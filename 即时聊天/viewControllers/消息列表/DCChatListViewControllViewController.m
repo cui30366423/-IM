@@ -79,6 +79,7 @@
     
     
     
+    
     _isClick = YES;
     [self setNavigationItemTitleView];
     //自定义rightBarButtonItem

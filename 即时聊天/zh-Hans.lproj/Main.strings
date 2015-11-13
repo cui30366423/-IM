@@ -1,0 +1,57 @@
+
+/* Class = "UIButton"; normalTitle = "添加"; ObjectID = "09X-qg-quj"; */
+"09X-qg-quj.normalTitle" = "添加";
+
+/* Class = "UILabel"; text = "nickname"; ObjectID = "558-BA-dDM"; */
+"558-BA-dDM.text" = "nickname";
+
+/* Class = "UILabel"; text = "用户名"; ObjectID = "AaP-74-l9h"; */
+"AaP-74-l9h.text" = "用户名";
+
+/* Class = "UILabel"; text = "token"; ObjectID = "B0l-Ol-uK9"; */
+"B0l-Ol-uK9.text" = "token";
+
+/* Class = "UIButton"; normalTitle = "注销"; ObjectID = "B6Y-zJ-50a"; */
+"B6Y-zJ-50a.normalTitle" = "注销";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "DPJ-FB-0Fo"; */
+"DPJ-FB-0Fo.text" = "id";
+
+/* Class = "UISearchBar"; placeholder = "查询好友"; ObjectID = "GhX-Gr-zIi"; */
+"GhX-Gr-zIi.placeholder" = "查询好友";
+
+/* Class = "UITabBarItem"; title = "我"; ObjectID = "IR1-gD-XpR"; */
+"IR1-gD-XpR.title" = "我";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "SbF-KD-5LK"; */
+"SbF-KD-5LK.text" = "name";
+
+/* Class = "UISearchBar"; placeholder = "查询"; ObjectID = "ScJ-iZ-Ucg"; */
+"ScJ-iZ-Ucg.placeholder" = "查询";
+
+/* Class = "UISearchBar"; ScJ-iZ-Ucg.scopeButtonTitles[0] = "Title"; ObjectID = "ScJ-iZ-Ucg"; */
+"ScJ-iZ-Ucg.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UISearchBar"; ScJ-iZ-Ucg.scopeButtonTitles[1] = "Title"; ObjectID = "ScJ-iZ-Ucg"; */
+"ScJ-iZ-Ucg.scopeButtonTitles[1]" = "Title";
+
+/* Class = "UINavigationItem"; title = "知了"; ObjectID = "T4Z-iB-xtQ"; */
+"T4Z-iB-xtQ.title" = "知了";
+
+/* Class = "UITabBarItem"; title = "通讯录"; ObjectID = "VNx-UV-Cdt"; */
+"VNx-UV-Cdt.title" = "通讯录";
+
+/* Class = "UIButton"; normalTitle = "同意"; ObjectID = "VQY-8r-TOC"; */
+"VQY-8r-TOC.normalTitle" = "同意";
+
+/* Class = "UILabel"; text = "请求添加好友"; ObjectID = "bNY-3a-NdH"; */
+"bNY-3a-NdH.text" = "请求添加好友";
+
+/* Class = "UILabel"; text = "用户信息"; ObjectID = "gcU-BG-MT7"; */
+"gcU-BG-MT7.text" = "用户信息";
+
+/* Class = "UITabBarItem"; title = "消息"; ObjectID = "mZy-Ta-xUI"; */
+"mZy-Ta-xUI.title" = "消息";
+
+/* Class = "UILabel"; text = "用户姓名"; ObjectID = "pPs-Wg-sFL"; */
+"pPs-Wg-sFL.text" = "用户姓名";

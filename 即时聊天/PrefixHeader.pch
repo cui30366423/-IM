@@ -1,0 +1,42 @@
+//
+//  PrefixHeader.pch
+//  即时聊天
+//
+//  Created by  Edward on 15/11/9.
+//  Copyright © 2015年  Edward. All rights reserved.
+//
+
+
+//  82hegw5uh07ex
+#define RongCloudAppKey @"lmxuhwagx87jd"//现有客户端测试appkey
+#define Device_Token @"Device_Token"
+#define RongCloudCurrentUserToken @"RongCloudCurrentUserToken"
+#define RongUserToken @"RongUserToken"
+
+
+#define responseCode @"code"
+#define AppMainColor @"d195af"
+
+#define HEXCOLOR(rgbValue) [UIColor colorWithRed:((float)((rgbValue & 0xFF0000) >> 16))/255.0 green:((float)((rgbValue & 0xFF00) >> 8))/255.0 blue:((float)(rgbValue & 0xFF))/255.0 alpha:1.0]
+
+
+#define DEFAULTS [NSUserDefaults standardUserDefaults]
+
+#define TabBarHeight 49.5
+
+#ifdef DEBUG
+#define DLog(fmt, ...) NSLog((@"%s [Line %d] " fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__);
+#else
+#define DLog(...)
+#endif
+
+#ifdef __OBJC__
+#import <RongIMKit/RongIMKit.h>
+#import <RongIMLib/RongIMLib.h>
+#import "UIColor+RCColor.h"
+#import "RCDRCIMDataSource.h"
+#import "AFHttpTool.h"
+#import "RCDHttpTool.h"
+#import "UIImageView+WebCache.h"
+#import "DCHttpTool.h"
+#endif
